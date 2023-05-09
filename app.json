@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "fddojo",
+    "slug": "fddojo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
