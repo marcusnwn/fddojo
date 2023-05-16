@@ -5,6 +5,10 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "supabaseUrl": "https://skoswnrdzbavnmplmoks.supabase.co",
+      "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNrb3N3bnJkemJhdm5tcGxtb2tzIiwicm9sZSI6ImFub24iLCJpYXQiOjE2ODM4ODg3ODEsImV4cCI6MTk5OTQ2NDc4MX0.r70eKTJRpbtroyWKh6VogaKpSENWXGX-YUI2kmJvmIU"
+    }
   }
 }
